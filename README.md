@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INKIND print studio
 
 ## Wolf and moon artwork
@@ -47,3 +48,7 @@ Four raster assets created with built-in image generation, saved in assets/, wit
 - assets/shirt.png: Use case: product-mockup. One white heavyweight oversized cotton T-shirt, floating ghost mannequin, front view perfectly symmetrical, realistic cloth folds, sleeves spread gently, round crew neck, blank chest without any print. Entire shirt centered with clear margins. Premium fashion studio photography. Truly transparent alpha background, no floor, no background color, no checkerboard, no shadow outside garment. Asset for website animation.
 - assets/model.png: Use case: photorealistic-natural. Full body fashion editorial cutout of a young adult Indian male model with dark wavy hair wearing a plain white oversized short sleeve crew neck T-shirt and loose black trousers and black sneakers. Facing directly forward with relaxed arms at sides, shirt chest fully visible and flat without graphics, confident subtle smile, premium streetwear editorial photography. Entire body including feet inside frame with generous margins. Actual transparent alpha background, no scenery, no floor, no checkerboard, no external shadows.
 - assets/graphic.png: Use case: illustration-story. A single isolated bold screen-print graphic for a streetwear T-shirt: vivid orange sun disc behind a fluid cobalt blue ocean wave, small black flying seabird, expressive retro hand drawn halftone texture, compact circular composition. No text or lettering. Flat limited ink colors orange blue black cream, crisp edges. Actual transparent alpha background outside the illustration, no paper, no garment, no mockup, no checkerboard. Centered with margins.
+=======
+# Tintavo
+Clothing aand printing website
+>>>>>>> d37c558dd2d3fb1e1d694a2f52aa6e8aa565fe6e
